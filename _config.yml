@@ -22,8 +22,8 @@ title: Azhir Mahmood
 email: azhir.m@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
 
-baseurl: "azhir.github.io" # the subpath of your site, e.g. /blog
-url: "https://azhir.co.uk" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "blog" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: azhir_io
 github_username:  azhir
 
