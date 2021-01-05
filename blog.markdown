@@ -1,6 +1,6 @@
 ---
-layout: default
-title: home
+layout: home
+title: Blog-Test
 permalink: /blog/
 ---
 
