@@ -28,7 +28,7 @@ twitter_username: azhir_io
 github_username:  azhir
 
 # Build settings
-theme: jekyll-theme-hydejack
+theme: minima
 plugins:
   - jekyll-feed
 
