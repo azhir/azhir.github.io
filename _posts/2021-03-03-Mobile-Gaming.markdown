@@ -2,7 +2,7 @@
 layout: post
 title:  "Analysis of Mobile Gaming Market"
 date:   2021-03-03 18:04:59 +0000
-categories: Analysis
+categories: Markets
 ---
 
 # Analysis of Mobile Gaming Market — A Story of Litigations and Trends!
