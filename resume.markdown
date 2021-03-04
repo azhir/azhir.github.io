@@ -17,7 +17,7 @@ permalink: /resume/
 
 ### **Education**
 
-__University of Cambridge (Christ’s College) – BA Natural Sciences Tripos (Astrophysics), 2015 – 2019__ 
+__University of Cambridge (Christ’s College) – BA Natural Sciences Tripos (Astrophysics), 2015 – 2019__
 
 Awarded First in final year Computational Project: 120/120; top 1% of the cohort.<br/>
 Awarded First in second year linear circuits project. Awarded First in first year materials project. <br/>
@@ -25,7 +25,7 @@ Attended UCL’s MSci Physics lectures: Advanced Cosmology, Quantum Field Theory
 
 __University of Cambridge (Homerton College) – IA Engineering,  2012 – 2013__
 
-Mechanics, Structures, Materials, Fluids, Thermodynamics, Electrical Engineering, Electronics, Information. 
+Mechanics, Structures, Materials, Fluids, Thermodynamics, Electrical Engineering, Electronics, Information.
 Projects: Structural Design (awarded first), Robotics Project (awarded first).
 
 __Woodhouse College – Chemistry (A* ), MEI Further Maths (A), Physics (A), AS-level Economics (A), 2010 – 2012__
