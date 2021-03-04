@@ -26,7 +26,7 @@ permalink: /resume/
 ***2012 – 2013 University of Cambridge (Homerton College) – IA Engineering*** <br/>
 *Mechanics, Structures, Materials, Fluids, Thermodynamics, Electrical* *Engineering, Electronics, Information. Projects: Structural Design (awarded first), Robotics Project (awarded first).*
 
-***2010 – 2012 Woodhouse College – Chemistry ($$A^*$$), MEI Further Maths ($$A$$), Physics ($$A$$), AS-level Economics ($$A$$)*** <br/>
+***2010 – 2012 Woodhouse College – Chemistry (A<sup>*</sup> ), MEI Further Maths (A), Physics (A), AS-level Economics (A)*** <br/>
 *294/300 Physics, 277/300 Chemistry, 271/300 Further Maths – self-taught numerous physics and maths modules.* <br/>
 *Nominated and selected by University of Cambridge to attend an intensive advanced mathematics residential.*
 
