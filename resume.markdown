@@ -30,14 +30,11 @@ Projects: Structural Design (awarded first), Robotics Project (awarded first).
 
 __Woodhouse College – Chemistry (A* ), MEI Further Maths (A), Physics (A), AS-level Economics (A), 2010 – 2012__
 
-294/300 Physics, 277/300 Chemistry, 271/300 Further Maths – self-taught numerous physics and maths modules. <br/>
-Nominated and selected by University of Cambridge to attend an intensive advanced mathematics residential.
+294/300 Physics, 277/300 Chemistry, 271/300 Further Maths – self-taught numerous physics and maths modules. Nominated and selected by University of Cambridge to attend an intensive advanced mathematics residential.
 
 __Gladesmore Community School – self-taught and took A-levels and GCSE’s in early, 2005 – 2010__
 
-A’s in Maths and Statistics GCSE’s (self-taught and completed in 2008 and 2007 respectively). <br/>
-A in A-level Mathematics (self-taught and completed in 2010). <br/>
-6 A*s at GCSE, Diploma in Digital Applications, CISCO CCNA 1.
+A’s in Maths and Statistics GCSE’s (self-taught and completed in 2008 and 2007 respectively). A in A-level Mathematics (self-taught and completed in 2010). 6 A*s at GCSE, Diploma in Digital Applications, CISCO CCNA 1.
 
 ------
 
