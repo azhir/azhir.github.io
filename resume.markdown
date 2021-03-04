@@ -55,50 +55,104 @@ permalink: /resume/
 
 ------
 
-### **Relevant Experience**
+### **Currently**
 
-**2019 – 2020 Elected as Events Officer of the Cambridge University Students’ Union BME Campaign**
+**Contracted Data Scientist, Directed Systems , February 2021 – Currently**
 
-- Collaborated with a team to organise university wide events; ranging from panel discussions to freshers’ events.
+* Using MIMIIC dataset form PhysioNet to forecast blood pressure — predicting hypotension during surgery.
 
-**Jun – Jul 2017 Cambridge Conservation Initiative (University of Cambridge)**
+*  Setting up GDPR compliant AWS servers to store and analyse data.
 
-- Used *R*, *MATLAB* and *QGIS* to analyse and process image data; aligning and stitching hyperspectral, LIDAR and aerial data.
-- Expanded on existing PhD work by developing and deploying feature-based registration (image and data processing).
+  
 
-**Aug – Sep 2016 The Computer Laboratory (University of Cambridge)**
+**Bioinformatician, Longevize , Dec 2021 – Currently**
 
-- Used *C* to analyse large environmental data sets gathered by a remote *raspberry-pi* which I accessed via *SSH*.
-- Forecasted future trends by identifying patterns in time series data.
-- Wrote and reviewed funding proposals. Proposals included funding for sensor, IOT and drone technology projects.
+* Making predictions using a multimodal approach with GNN and DNN to omics and physio data.
 
-**Jun – Jul 2015 TeachTapin**
+  
 
-- Inspired and motivated young people as a community outreach officer within local community centres.
-- Drafted letters and e-mails for disabled clients.
+### **Business/Venture Capital Experience**
 
-**2014 –2019 House of Commons**
+**CEO/Founder, PulsePal, Jun – Dec 2020**
+
+* Developer of a Class I Medical Device, ensuring HIPAA/GDPR compliance and submitted for FDA/CE-Marking approval. 
+* Lead a team of engineers and scientists to the final stages of YC, pitched to angel-round and seed round investors.
+* Built SaaS platform using MATLAB, Python, GCP and HTML4, that obtains vital sign readings through any smartphone camera.
+* Analysed PPG signals, extracted from videos, using spatiotemporal models to estimate blood pressure and oxygen. 
+* Co-ordinated with Directors of Barts and Royal Papworth Hospitals, securing support for pilots, as well as submitted for large-scale MHRA approved pilots. 
+* Received ethics approval to run clinical trials, in collaboration with the University of Khartoum, at Soba Hospital.
+
+
+
+**Founder in Residence, Entrepreneurs First, Feb – Aug 2020**
+
+* Topics: Investor Decks, Business Models, Financial Modelling, GTM, B2B Sales, OKRs, Fundraising, Venture Economics, Communication, Customer Development, Market Sizing, Early Stage Growth, Competition and Defensibility.*
+*  Was part of the 3% to be accepted by EF, where I provided weekly assessment reports to EIRs/VC Partners and was consistently ranked as one of top performers and eventually pitched to an investment committee for pre-seed funding.
+
+### **Engineering /DataScience Experience**
+
+
+
+**Machine Learning Engineer, Cambridge Conservation Initiative, Jul – Sep 2017**  (Supervised by Prof. David Coomes)
+
+* Used *R*, *MATLAB* and *QGIS* to analyse and process image data; aligning and stitching hyperspectral, LIDAR and aerial data.
+
+* Expanded on existing PhD work by developing and deploying feature-based registration (image and data processing).
+
+* Provided weekly update reports to my supervisor as well as discussing and resolving problems.
+
+  
+
+**Data Analyst, The Computer Laboratory, University of Cambridge, Jul – Sep 2016**  (Supervised by Prof. Ian Leslie)
+
+* Used *C* to analyse large environmental data sets gathered by a remote *raspberry-pi* which I accessed via *SSH*. 
+* Forecasted future trends by identifying patterns in time series data.
+* Wrote and reviewed funding proposals. Proposals included funding for sensor, IOT and drone technology projects.
+
+ 
+
+**Optimisation Engineer, Cambridge University Eco Racing, Jul – Sep 2014**
+
+* Liaised with industry leaders to find appropriate materials and manufacturing processes. 
+* Researched canopy design and material selection as part of the 2014 Summer Design Team.
+* Developed *CAD* skills using *Pro-Engineer*.
+
+ 
+
+**Software Engineer, BAE Systems / DARPA, Jul – Sep 2013**     
+
+* Performed data collection experiments and analysed data in *Excel*.
+
+* Published internal scientific reports detailing my findings from my experiments along with recommendations.
+
+* Created a predictive analysis utility, which is now in internal use, using *MATLAB* (complete with a graphical user interface). 
+
+  
+
+### **Legal Experience**
+
+**Coordinator, House of Commons, 2014 –  2019**     (supervised by David Lammy)
 
 - Coordinated, organised and liaised with MP’s, lawyers and academics to make policy proposals.
 - Submitted, drafted and analysed legal documents and appeals.
 - Negotiated an undisclosed settlement for client.
 
-**Jun – Jul 2014 Cambridge University Eco Racing**
 
-- Liaised with industry leaders to find appropriate materials and manufacturing processes.
-- Researched canopy design and material selection as part of the 2014 Summer Design Team.
-- Developed *CAD* skills using *Pro-Engineer*.
 
-**Jul – Sep 2013 BAE Systems / DARPA**
+###  **Diversity and Outreach Experience**
 
-- Performed data collection experiments and analysed data in *Excel*.
-- Published internal scientific reports detailing my findings from my experiments along with recommendations.
-- Created a predictive analysis utility, which is now in internal use, using *MATLAB* (complete with a graphical user interface).
+**Elected Events Officer, Cambridge University Students’ Union BME Campaign, 2019 –  2020**  
 
-**Aug – Sep 2011 Scottish and Southern Energy**
+- Collaborated with a team to organise university wide events; ranging from panel discussions to freshers’ events.
 
-- Worked with a large team to pitch business engineering and technical ideas to an audience of 100 people.
-- Visited various divisions learning technical details about SSE’s business.
+  
+
+**Elected Events Officer, TeachTapin, Jun – Jul 2015**  
+
+- Inspired and motivated young people as a community outreach officer within local community centres.
+- Drafted letters and e-mails for disabled clients.
+
+
 
 ------
 
