@@ -7,7 +7,7 @@ permalink: /resume/
 
 ------
 
-**Profile** My resilience and determination has pushed me to take some of the most challenging courses my university has to offer, which have strengthened my analytic and problem-solving abilities. During my summers, I took on various programming/analysis roles, and in my final year demonstrated ‘excellence’ in my computational project. I have collaborated with various teams and have applied my research skills to write proposals. I am interested in emerging markets, IPOs and disruptive innovation.
+**Profile:** My resilience and determination has pushed me to take some of the most challenging courses my university has to offer, which have strengthened my analytic and problem-solving abilities. During my summers, I took on various programming/analysis roles, and in my final year demonstrated ‘excellence’ in my computational project. I have collaborated with various teams and have applied my research skills to write proposals. I am interested in emerging markets, IPOs and disruptive innovation.
 
 ------
 
@@ -17,23 +17,27 @@ permalink: /resume/
 
 ### **Education**
 
-***2015 – 2019 University of Cambridge (Christ’s College) – BA Natural Sciences Tripos (Astrophysics)*** <br/>
-*Awarded First in final year Computational Project: 120/120; top 1% of the cohort.*
-<br/>
-*Awarded First in second year linear circuits project. Awarded First in first year materials project.* <br/>
-*Attended UCL’s MSci Physics lectures: Advanced Cosmology, Quantum Field Theory, Advanced Statistical Mechanics.*
+__University of Cambridge (Christ’s College) – BA Natural Sciences Tripos (Astrophysics), 2015 – 2019__ 
 
-***2012 – 2013 University of Cambridge (Homerton College) – IA Engineering*** <br/>
-*Mechanics, Structures, Materials, Fluids, Thermodynamics, Electrical* *Engineering, Electronics, Information. Projects: Structural Design (awarded first), Robotics Project (awarded first).*
+Awarded First in final year Computational Project: 120/120; top 1% of the cohort.<br/>
+Awarded First in second year linear circuits project. Awarded First in first year materials project. <br/>
+Attended UCL’s MSci Physics lectures: Advanced Cosmology, Quantum Field Theory, Advanced Statistical Mechanics.
 
-***2010 – 2012 Woodhouse College – Chemistry ($$A^*$$), MEI Further Maths ($$A$$), Physics ($$A$$), AS-level Economics ($$A$$)*** <br/>
-*294/300 Physics, 277/300 Chemistry, 271/300 Further Maths – self-taught numerous physics and maths modules.* <br/>
-*Nominated and selected by University of Cambridge to attend an intensive advanced mathematics residential.*
+__University of Cambridge (Homerton College) – IA Engineering,  2012 – 2013__
 
-***2005 – 2010 Gladesmore Community School – self-taught and took A-levels and GCSE’s in early.*** <br/>
-*$$A$$’s in Maths and Statistics GCSE’s (self-taught and completed in 2008 and 2007 respectively).* <br/>
-*$$A$$ in A-level Mathematics (self-taught and completed in 2010).* <br/>
-6 $$A^*$$s at GCSE, Diploma in Digital Applications, CISCO CCNA 1.
+Mechanics, Structures, Materials, Fluids, Thermodynamics, Electrical Engineering, Electronics, Information. 
+Projects: Structural Design (awarded first), Robotics Project (awarded first).
+
+__Woodhouse College – Chemistry (A* ), MEI Further Maths (A), Physics (A), AS-level Economics (A), 2010 – 2012__
+
+294/300 Physics, 277/300 Chemistry, 271/300 Further Maths – self-taught numerous physics and maths modules. <br/>
+Nominated and selected by University of Cambridge to attend an intensive advanced mathematics residential.
+
+__Gladesmore Community School – self-taught and took A-levels and GCSE’s in early, 2005 – 2010__
+
+A’s in Maths and Statistics GCSE’s (self-taught and completed in 2008 and 2007 respectively). <br/>
+A in A-level Mathematics (self-taught and completed in 2010). <br/>
+6 A*s at GCSE, Diploma in Digital Applications, CISCO CCNA 1.
 
 ------
 
@@ -75,7 +79,7 @@ Making predictions using a multimodal approach with GNN and DNN to omics and phy
 
 
 **Founder in Residence, Entrepreneurs First, Feb – Aug 2020**
-* Topics: Investor Decks, Business Models, Financial Modelling, GTM, B2B Sales, OKRs, Fundraising, Venture Economics, Communication, Customer Development, Market Sizing, Early Stage Growth, Competition and Defensibility.*
+* Topics: Investor Decks, Business Models, Financial Modelling, GTM, B2B Sales, OKRs, Fundraising, Venture Economics, Communication, Customer Development, Market Sizing, Early Stage Growth, Competition and Defensibility.
 *  Was part of the 3% to be accepted by EF, where I provided weekly assessment reports to EIRs/VC Partners and was consistently ranked as one of top performers and eventually pitched to an investment committee for pre-seed funding.
 
 ### **Engineering /DataScience Experience**
