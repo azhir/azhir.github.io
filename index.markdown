@@ -6,7 +6,7 @@ layout: page
 ---
 
 **Who Am I?** <br/>
-An age old questions many weary travellers have asked themselves. Am I a person? Am I a wiggly arrangement of benzene rings and protein molecules masquerading as a self-conscious life form? Am I just a projection of information encoded around the edge of the observable universe? Anyways none of these questions are particularly relevant and for the sake of simplicity let us just start by agree that physics has no axioms and separately I am a recent Natural Sciences/Astrophysics graduate from the University of Cambridge.
+An age old question many weary travellers have asked themselves. Am I a person? Am I a wiggly arrangement of benzene rings and protein molecules masquerading as a conscious self-conscious life form? Am I just a projection of information encoded around the edge of the observable universe? Anyways none of these questions are particularly relevant and for the sake of simplicity let us just start by agree that the naturalism is the axiom of physic and on unrelated note I am a recent Natural Sciences/Astrophysics graduate from the University of Cambridge.
 
 ------
 
